@@ -1,8 +1,8 @@
 pipeline {
   agent any
-  tools {
-      maven 'Maven'
-  }
+//  tools {
+  //    maven 'Maven'
+  //}
   parameters {
       choice(name: 'VERSION', choices:['1.1.1','1.1.2','1.1.3'], description: '')
       booleanParam(name: 'execute', defaultValue: true, description: '')
@@ -13,7 +13,7 @@ pipeline {
       
       steps{
         echo 'Here we are bulding the app!'
-        sh "mvn install"
+    //    sh "mvn install"
       }
     }
     
