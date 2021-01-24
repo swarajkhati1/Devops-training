@@ -1,0 +1,8 @@
+---
+- hosts: all
+
+  tasks:
+   - name: copy file
+     copy:
+       src: '/tmp/swaraj_file'
+       dest: /tmp/

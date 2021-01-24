@@ -1,0 +1,6 @@
+---
+- hosts: all
+
+  tasks:
+   - name: ShutDown Hosts
+     shell: /sbin/shutdown -h now

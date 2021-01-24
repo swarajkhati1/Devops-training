@@ -1,0 +1,3 @@
+##Adding Master Node SSH Keys
+pub_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDIhkjz9bHg32aM9NTK/QTgFYL1+Xs1+XTEPhtRpKybdHi3HiUAsaA7UW8KAPzHYQQgS3XzhHLIryLH+b4kHgYytnW+XzUfDuqmf8yJgTORBqic8SFX9frT3P9oHvDSVSJoC75Z3XhjD0hpt92efXgRgYdOcMhoGaupmTkJwP4z7zGHK1/VMkU2xkaPxrIX6oSh5oJUjJA+byTCxGibcH9rB6g0CIbIu5+k2dm5Hu7Bve9v7PHMLGN413WhC32vJutrxrm4sCAO076Sm0Le+q62xdvglMxsT/8HJDnG+Jrd8bzOtKX/wNQyhNeK3+HmaQsZ59Q/b4bhSISofUovh2BJ root@ip-172-31-24-12.us-west-1.compute.internal"
+~
